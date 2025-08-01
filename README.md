@@ -1,4 +1,4 @@
-# 💬 Chat Application – COM5015M
+# Chat Application – COM5015M
 
 This is a **Java-based Chat Application** developed for the **COM5015M Advanced Programming** module at **York St John University**. It demonstrates **Object-Oriented Programming (OOP)** principles, multi-threading, MySQL integration, and includes a live **web dashboard** for real-time chat statistics.
 
